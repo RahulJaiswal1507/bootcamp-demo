@@ -14,4 +14,4 @@ variables:
 
 steps:
 - script: cd app
--script: Docker build -t developer-camp:dev .
+- script: Docker build -t developer-camp:dev .
